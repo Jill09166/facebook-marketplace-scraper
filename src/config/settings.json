@@ -1,0 +1,10 @@
+{
+  "use_mock": true,
+  "mock_category": "vehicles",
+  "default_limit": 50,
+  "request_timeout_seconds": 20,
+  "retries": 2,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+  "outputs_dir": "../outputs",
+  "logs_dir": "../outputs/logs"
+}
